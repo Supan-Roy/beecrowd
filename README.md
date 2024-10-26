@@ -6,5 +6,5 @@ The problems in this repository were solved as part of my practice on Beecrowd, 
 
 Structure
 Language: C
-Problem Format: Each file is named according to the problem ID (e.g., 1002-Area-Of-A-Circle.c for Problem 1001).
+Problem Format: Each file is named according to the problem ID (e.g., 1002-Area-Of-A-Circle.c for Problem 1002).
 Folders: Problems are categorized based on Beecrowd's problem categories, if applicable.
